@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f17fe"
+  },
+  "GroupID": 1,
+  "CreatorUserID": 17,
+  "GroupName": "Volleyball PH",
+  "Description": "Philippine Volleyball on top",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.449Z"
+  },
+  "MemberCount": 30
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1800"
+  },
+  "GroupID": 2,
+  "CreatorUserID": 21,
+  "GroupName": "Egypt Exploration",
+  "Description": "bring a shield!",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.496Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1802"
+  },
+  "GroupID": 3,
+  "CreatorUserID": 22,
+  "GroupName": "Chemistry Group",
+  "Description": "How to make the perfect toxic",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.534Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1804"
+  },
+  "GroupID": 4,
+  "CreatorUserID": 23,
+  "GroupName": "Revival",
+  "Description": "2nd life",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.552Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1806"
+  },
+  "GroupID": 5,
+  "CreatorUserID": 24,
+  "GroupName": "Valorant SK",
+  "Description": "Valorant SK Community",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.578Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1808"
+  },
+  "GroupID": 6,
+  "CreatorUserID": 25,
+  "GroupName": "Forensics",
+  "Description": "Give me a corpse",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.613Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f180a"
+  },
+  "GroupID": 7,
+  "CreatorUserID": 27,
+  "GroupName": "Genshin Impact Community",
+  "Description": "Explaration, Quests, Newbie Guides",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.635Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f180c"
+  },
+  "GroupID": 8,
+  "CreatorUserID": 28,
+  "GroupName": "Chess",
+  "Description": "Chess Group",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.660Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f180e"
+  },
+  "GroupID": 9,
+  "CreatorUserID": 29,
+  "GroupName": "Meta Design",
+  "Description": "UI/UX group",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.697Z"
+  },
+  "MemberCount": 4
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1810"
+  },
+  "GroupID": 10,
+  "CreatorUserID": 30,
+  "GroupName": "Bunnies",
+  "Description": "NewJeans fanbase",
+  "PrivacySetting": "Public",
+  "CreationDate": {
+    "$date": "2024-06-11T16:17:44.714Z"
+  },
+  "MemberCount": 4
+}]

@@ -1,0 +1,756 @@
+[{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f18fe"
+  },
+  "FriendshipID": 1,
+  "UserID1": 1,
+  "UserID2": 2,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f1900"
+  },
+  "FriendshipID": 2,
+  "UserID1": 1,
+  "UserID2": 3,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.422Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f1902"
+  },
+  "FriendshipID": 3,
+  "UserID1": 1,
+  "UserID2": 4,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f1904"
+  },
+  "FriendshipID": 4,
+  "UserID1": 1,
+  "UserID2": 5,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f1906"
+  },
+  "FriendshipID": 5,
+  "UserID1": 2,
+  "UserID2": 3,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f1908"
+  },
+  "FriendshipID": 6,
+  "UserID1": 2,
+  "UserID2": 4,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.787Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f190a"
+  },
+  "FriendshipID": 7,
+  "UserID1": 2,
+  "UserID2": 5,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.867Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc48c5f544ecd3f190c"
+  },
+  "FriendshipID": 8,
+  "UserID1": 3,
+  "UserID2": 4,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:20.957Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc58c5f544ecd3f190e"
+  },
+  "FriendshipID": 9,
+  "UserID1": 3,
+  "UserID2": 5,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:21.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66688fc58c5f544ecd3f1910"
+  },
+  "FriendshipID": 10,
+  "UserID1": 4,
+  "UserID2": 5,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T17:56:21.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891698c5f544ecd3f1912"
+  },
+  "FriendshipID": 11,
+  "UserID1": 6,
+  "UserID2": 7,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:21.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891698c5f544ecd3f1914"
+  },
+  "FriendshipID": 12,
+  "UserID1": 6,
+  "UserID2": 8,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:21.912Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f1916"
+  },
+  "FriendshipID": 13,
+  "UserID1": 6,
+  "UserID2": 9,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:21.998Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f1918"
+  },
+  "FriendshipID": 14,
+  "UserID1": 6,
+  "UserID2": 10,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:22.080Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f191a"
+  },
+  "FriendshipID": 15,
+  "UserID1": 7,
+  "UserID2": 8,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:22.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f191c"
+  },
+  "FriendshipID": 16,
+  "UserID1": 7,
+  "UserID2": 9,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:22.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f191e"
+  },
+  "FriendshipID": 17,
+  "UserID1": 7,
+  "UserID2": 10,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:22.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f1920"
+  },
+  "FriendshipID": 18,
+  "UserID1": 8,
+  "UserID2": 9,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:22.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f1922"
+  },
+  "FriendshipID": 19,
+  "UserID1": 8,
+  "UserID2": 10,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:22.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668916a8c5f544ecd3f1924"
+  },
+  "FriendshipID": 20,
+  "UserID1": 9,
+  "UserID2": 10,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:03:22.946Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d68c5f544ecd3f1926"
+  },
+  "FriendshipID": 21,
+  "UserID1": 11,
+  "UserID2": 12,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:10.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d68c5f544ecd3f1928"
+  },
+  "FriendshipID": 22,
+  "UserID1": 11,
+  "UserID2": 13,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:10.206Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d68c5f544ecd3f192a"
+  },
+  "FriendshipID": 23,
+  "UserID1": 11,
+  "UserID2": 14,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:10.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d68c5f544ecd3f192c"
+  },
+  "FriendshipID": 24,
+  "UserID1": 11,
+  "UserID2": 15,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:10.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d68c5f544ecd3f192e"
+  },
+  "FriendshipID": 25,
+  "UserID1": 12,
+  "UserID2": 13,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:10.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d68c5f544ecd3f1930"
+  },
+  "FriendshipID": 26,
+  "UserID1": 12,
+  "UserID2": 14,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:10.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d68c5f544ecd3f1932"
+  },
+  "FriendshipID": 27,
+  "UserID1": 12,
+  "UserID2": 15,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:10.731Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d78c5f544ecd3f1934"
+  },
+  "FriendshipID": 28,
+  "UserID1": 13,
+  "UserID2": 14,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:11.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d78c5f544ecd3f1936"
+  },
+  "FriendshipID": 29,
+  "UserID1": 13,
+  "UserID2": 15,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:11.307Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666891d78c5f544ecd3f1938"
+  },
+  "FriendshipID": 30,
+  "UserID1": 14,
+  "UserID2": 15,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:05:11.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926b8c5f544ecd3f193a"
+  },
+  "FriendshipID": 31,
+  "UserID1": 16,
+  "UserID2": 17,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:39.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926b8c5f544ecd3f193c"
+  },
+  "FriendshipID": 32,
+  "UserID1": 16,
+  "UserID2": 18,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:39.501Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926b8c5f544ecd3f193e"
+  },
+  "FriendshipID": 33,
+  "UserID1": 16,
+  "UserID2": 19,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:39.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926b8c5f544ecd3f1940"
+  },
+  "FriendshipID": 34,
+  "UserID1": 16,
+  "UserID2": 20,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:39.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926b8c5f544ecd3f1942"
+  },
+  "FriendshipID": 35,
+  "UserID1": 17,
+  "UserID2": 18,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:39.829Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926c8c5f544ecd3f1944"
+  },
+  "FriendshipID": 36,
+  "UserID1": 17,
+  "UserID2": 19,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:40.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926c8c5f544ecd3f1946"
+  },
+  "FriendshipID": 37,
+  "UserID1": 17,
+  "UserID2": 20,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:40.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926c8c5f544ecd3f1948"
+  },
+  "FriendshipID": 38,
+  "UserID1": 18,
+  "UserID2": 19,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:40.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926c8c5f544ecd3f194a"
+  },
+  "FriendshipID": 39,
+  "UserID1": 18,
+  "UserID2": 20,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:40.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668926c8c5f544ecd3f194c"
+  },
+  "FriendshipID": 40,
+  "UserID1": 19,
+  "UserID2": 20,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:07:40.725Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c48c5f544ecd3f194e"
+  },
+  "FriendshipID": 41,
+  "UserID1": 21,
+  "UserID2": 22,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:08.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c48c5f544ecd3f1950"
+  },
+  "FriendshipID": 42,
+  "UserID1": 21,
+  "UserID2": 23,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:08.433Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c48c5f544ecd3f1952"
+  },
+  "FriendshipID": 43,
+  "UserID1": 21,
+  "UserID2": 24,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:08.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c48c5f544ecd3f1954"
+  },
+  "FriendshipID": 44,
+  "UserID1": 21,
+  "UserID2": 25,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:08.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c48c5f544ecd3f1956"
+  },
+  "FriendshipID": 45,
+  "UserID1": 22,
+  "UserID2": 23,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:08.765Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c48c5f544ecd3f1958"
+  },
+  "FriendshipID": 46,
+  "UserID1": 22,
+  "UserID2": 24,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:08.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c48c5f544ecd3f195a"
+  },
+  "FriendshipID": 47,
+  "UserID1": 22,
+  "UserID2": 25,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:08.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c58c5f544ecd3f195c"
+  },
+  "FriendshipID": 48,
+  "UserID1": 23,
+  "UserID2": 24,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:09.107Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c58c5f544ecd3f195e"
+  },
+  "FriendshipID": 49,
+  "UserID1": 23,
+  "UserID2": 25,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:09.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666892c58c5f544ecd3f1960"
+  },
+  "FriendshipID": 50,
+  "UserID1": 24,
+  "UserID2": 25,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:09:09.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666893398c5f544ecd3f1962"
+  },
+  "FriendshipID": 51,
+  "UserID1": 26,
+  "UserID2": 27,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:05.107Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666893398c5f544ecd3f1964"
+  },
+  "FriendshipID": 52,
+  "UserID1": 26,
+  "UserID2": 28,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:05.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666893398c5f544ecd3f1966"
+  },
+  "FriendshipID": 53,
+  "UserID1": 26,
+  "UserID2": 29,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:05.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666893398c5f544ecd3f1968"
+  },
+  "FriendshipID": 54,
+  "UserID1": 26,
+  "UserID2": 30,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:05.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668933a8c5f544ecd3f196a"
+  },
+  "FriendshipID": 55,
+  "UserID1": 27,
+  "UserID2": 28,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:06.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668933a8c5f544ecd3f196c"
+  },
+  "FriendshipID": 56,
+  "UserID1": 27,
+  "UserID2": 29,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:06.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668933a8c5f544ecd3f196e"
+  },
+  "FriendshipID": 57,
+  "UserID1": 27,
+  "UserID2": 30,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:06.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668933a8c5f544ecd3f1970"
+  },
+  "FriendshipID": 58,
+  "UserID1": 28,
+  "UserID2": 29,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:06.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668933a8c5f544ecd3f1972"
+  },
+  "FriendshipID": 59,
+  "UserID1": 28,
+  "UserID2": 30,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:06.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668933a8c5f544ecd3f1974"
+  },
+  "FriendshipID": 60,
+  "UserID1": 29,
+  "UserID2": 30,
+  "Status": "Accepted",
+  "Timestamp": {
+    "$date": "2024-06-11T18:11:06.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668aecb8c5f544ecd3f1976"
+  },
+  "FriendshipID": 61,
+  "UserID1": 26,
+  "UserID2": 1,
+  "Status": "Pending",
+  "Timestamp": {
+    "$date": "2024-06-11T20:08:43.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668aecb8c5f544ecd3f1978"
+  },
+  "FriendshipID": 62,
+  "UserID1": 26,
+  "UserID2": 2,
+  "Status": "Pending",
+  "Timestamp": {
+    "$date": "2024-06-11T20:08:43.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668aecb8c5f544ecd3f197a"
+  },
+  "FriendshipID": 63,
+  "UserID1": 26,
+  "UserID2": 3,
+  "Status": "Pending",
+  "Timestamp": {
+    "$date": "2024-06-11T20:08:43.329Z"
+  }
+}]

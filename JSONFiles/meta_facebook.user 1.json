@@ -1,0 +1,754 @@
+[{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17ce"
+  },
+  "UserID": 1,
+  "FullName": "Lee Sang-hyeok",
+  "Email": "faker@example.com",
+  "Password": "password123",
+  "DateOfBirth": {
+    "$date": "2004-05-15T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Sampaloc, Manila",
+  "RelationshipStatus": "Single",
+  "Bio": "I love league!",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.462Z"
+  },
+  "Age": 20,
+  "PreferredCategories": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17cf"
+  },
+  "UserID": 2,
+  "FullName": "Barbatos",
+  "Email": "venti@example.com",
+  "Password": "wind123",
+  "DateOfBirth": {
+    "$date": "2000-06-16T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Makati City",
+  "RelationshipStatus": "Single",
+  "Bio": "Bard of the wind.",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.521Z"
+  },
+  "Age": 23,
+  "PreferredCategories": [
+    4,
+    23,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17d0"
+  },
+  "UserID": 3,
+  "FullName": "Ayaka Kamisato",
+  "Email": "ayaka@example.com",
+  "Password": "ayaka123",
+  "DateOfBirth": {
+    "$date": "2001-09-28T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "Silang, Cavite",
+  "RelationshipStatus": "Single",
+  "Bio": "ayayayayayaya",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.561Z"
+  },
+  "Age": 22,
+  "PreferredCategories": [
+    1,
+    9,
+    8
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17d1"
+  },
+  "UserID": 4,
+  "FullName": "Monkey D. Luffy",
+  "Email": "luffy@example.com",
+  "Password": "gumgum123",
+  "DateOfBirth": {
+    "$date": "1997-05-05T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Rio de Janeiro",
+  "RelationshipStatus": "Single",
+  "Bio": "mugimugi",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.616Z"
+  },
+  "Age": 27,
+  "PreferredCategories": [
+    12,
+    21,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17d2"
+  },
+  "UserID": 5,
+  "FullName": "Roronoa Zoro",
+  "Email": "zoro@example.com",
+  "Password": "threeblades123",
+  "DateOfBirth": {
+    "$date": "1996-11-11T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Kumamoto",
+  "RelationshipStatus": "Single",
+  "Bio": "yontoryuu",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.672Z"
+  },
+  "Age": 27,
+  "PreferredCategories": [
+    19,
+    22,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17d3"
+  },
+  "UserID": 6,
+  "FullName": "Sanji Vinsmoke",
+  "Email": "sanji@example.com",
+  "Password": "blackleg123",
+  "DateOfBirth": {
+    "$date": "1997-03-02T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Paris",
+  "RelationshipStatus": "Single",
+  "Bio": "number4",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.732Z"
+  },
+  "Age": 27,
+  "PreferredCategories": [
+    11,
+    5,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17d4"
+  },
+  "UserID": 7,
+  "FullName": "Brook Haven",
+  "Email": "brook@example.com",
+  "Password": "yohoho123",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "-623203200000"
+    }
+  },
+  "Gender": "Male",
+  "Location": "Manchester",
+  "RelationshipStatus": "Single",
+  "Bio": "Yohohohoho",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.803Z"
+  },
+  "Age": 74,
+  "PreferredCategories": [
+    17,
+    2,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17d5"
+  },
+  "UserID": 8,
+  "FullName": "Dracule Mihawk",
+  "Email": "mihawk@example.com",
+  "Password": "yoru123",
+  "DateOfBirth": {
+    "$date": "1980-03-09T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Madrid",
+  "RelationshipStatus": "Engaged",
+  "Bio": "painter",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.882Z"
+  },
+  "Age": 44,
+  "PreferredCategories": [
+    8,
+    13,
+    15
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e28c5f544ecd3f17d6"
+  },
+  "UserID": 9,
+  "FullName": "Silvers Rayleigh",
+  "Email": "rayleigh@example.com",
+  "Password": "haki123",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "-998438400000"
+    }
+  },
+  "Gender": "Male",
+  "Location": "Sabaody Archipelago",
+  "RelationshipStatus": "Married",
+  "Bio": "I h8 Marshall D. Teach",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:42.952Z"
+  },
+  "Age": 86,
+  "PreferredCategories": [
+    10,
+    24,
+    16
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17d7"
+  },
+  "UserID": 10,
+  "FullName": "Kylian Mbappe",
+  "Email": "ky@example.com",
+  "Password": "football123",
+  "DateOfBirth": {
+    "$date": "1998-12-20T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Paris",
+  "RelationshipStatus": "Single",
+  "Bio": "90second",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.016Z"
+  },
+  "Age": 25,
+  "PreferredCategories": [
+    9,
+    8,
+    7
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17d8"
+  },
+  "UserID": 11,
+  "FullName": "Trafalgar D. Water Law",
+  "Email": "law@example.com",
+  "Password": "opop123",
+  "DateOfBirth": {
+    "$date": "1998-10-06T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Munich",
+  "RelationshipStatus": "Single",
+  "Bio": "Beppo lover",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.094Z"
+  },
+  "Age": 25,
+  "PreferredCategories": [
+    4,
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17d9"
+  },
+  "UserID": 12,
+  "FullName": "Eustass Kid",
+  "Email": "kid@example.com",
+  "Password": "punk123",
+  "DateOfBirth": {
+    "$date": "1997-01-10T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Stirling",
+  "RelationshipStatus": "Single",
+  "Bio": "anger issues",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.162Z"
+  },
+  "Age": 27,
+  "PreferredCategories": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17da"
+  },
+  "UserID": 13,
+  "FullName": "Shoyo Hinata",
+  "Email": "hinata@example.com",
+  "Password": "volleyball123",
+  "DateOfBirth": {
+    "$date": "2000-06-21T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Iwate",
+  "RelationshipStatus": "Single",
+  "Bio": "Volleyball athlete",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.240Z"
+  },
+  "Age": 23,
+  "PreferredCategories": [
+    10,
+    12,
+    11
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17db"
+  },
+  "UserID": 14,
+  "FullName": "Tobio Kageyama",
+  "Email": "kageyama@example.com",
+  "Password": "set123",
+  "DateOfBirth": {
+    "$date": "2000-12-22T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Iwate",
+  "RelationshipStatus": "Single",
+  "Bio": "Setter",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.325Z"
+  },
+  "Age": 23,
+  "PreferredCategories": [
+    15,
+    14,
+    13
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17dc"
+  },
+  "UserID": 15,
+  "FullName": "Kotaro Bokuto",
+  "Email": "bokuto@example.com",
+  "Password": "spike123",
+  "DateOfBirth": {
+    "$date": "1999-09-20T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Tokyo",
+  "RelationshipStatus": "Single",
+  "Bio": "Ace of Fukurodani volleyball team",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.411Z"
+  },
+  "Age": 24,
+  "PreferredCategories": [
+    16,
+    17,
+    18
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17dd"
+  },
+  "UserID": 16,
+  "FullName": "Tetsuro Kuroo",
+  "Email": "kuroo@example.com",
+  "Password": "block123",
+  "DateOfBirth": {
+    "$date": "1999-11-17T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Tokyo",
+  "RelationshipStatus": "Single",
+  "Bio": "Captain of the Nekoma volleyball team",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.501Z"
+  },
+  "Age": 24,
+  "PreferredCategories": [
+    21,
+    20,
+    19
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17de"
+  },
+  "UserID": 17,
+  "FullName": "Kenma Kozume",
+  "Email": "kenma@example.com",
+  "Password": "gamer123",
+  "DateOfBirth": {
+    "$date": "2000-10-16T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Tokyo",
+  "RelationshipStatus": "Single",
+  "Bio": "Setter for the Nekoma volleyball team",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.592Z"
+  },
+  "Age": 23,
+  "PreferredCategories": [
+    22,
+    23,
+    24
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17df"
+  },
+  "UserID": 18,
+  "FullName": "Wakatoshi Ushijima",
+  "Email": "ushijima@example.com",
+  "Password": "spike123",
+  "DateOfBirth": {
+    "$date": "1999-08-13T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Miyagi",
+  "RelationshipStatus": "Single",
+  "Bio": "Ace of Shiratorizawa volleyball team",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.685Z"
+  },
+  "Age": 24,
+  "PreferredCategories": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17e0"
+  },
+  "UserID": 19,
+  "FullName": "Atsumu Miya",
+  "Email": "atsumu@example.com",
+  "Password": "serve123",
+  "DateOfBirth": {
+    "$date": "2000-10-05T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Hyogo",
+  "RelationshipStatus": "Single",
+  "Bio": "Setter for Inarizaki volleyball team",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.796Z"
+  },
+  "Age": 23,
+  "PreferredCategories": [
+    4,
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17e1"
+  },
+  "UserID": 20,
+  "FullName": "Artoria Pendragon",
+  "Email": "artoria@example.com",
+  "Password": "excalibur123",
+  "DateOfBirth": {
+    "$date": "1983-05-04T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "Camelot",
+  "RelationshipStatus": "Single",
+  "Bio": "King of Knights",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.897Z"
+  },
+  "Age": 41,
+  "PreferredCategories": [
+    9,
+    8,
+    7
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e38c5f544ecd3f17e2"
+  },
+  "UserID": 21,
+  "FullName": "Mash Kyrielight",
+  "Email": "mash@example.com",
+  "Password": "shield123",
+  "DateOfBirth": {
+    "$date": "2000-12-31T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "Iraq",
+  "RelationshipStatus": "Single",
+  "Bio": "takasahi rie",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:43.996Z"
+  },
+  "Age": 23,
+  "PreferredCategories": [
+    10,
+    12,
+    13
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e48c5f544ecd3f17e3"
+  },
+  "UserID": 22,
+  "FullName": "Sabine Callas",
+  "Email": "viper@example.com",
+  "Password": "toxic123",
+  "DateOfBirth": {
+    "$date": "1986-08-03T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "United States",
+  "RelationshipStatus": "Single",
+  "Bio": "A scientist focused on toxicology",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:44.107Z"
+  },
+  "Age": 37,
+  "PreferredCategories": [
+    15,
+    14,
+    11
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e48c5f544ecd3f17e4"
+  },
+  "UserID": 23,
+  "FullName": "Jamie Adeyemi",
+  "Email": "phoenix@example.com",
+  "Password": "fire123",
+  "DateOfBirth": {
+    "$date": "1997-04-11T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "United Kingdom",
+  "RelationshipStatus": "Single",
+  "Bio": "Blinding",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:44.227Z"
+  },
+  "Age": 27,
+  "PreferredCategories": [
+    16,
+    7,
+    23
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e48c5f544ecd3f17e5"
+  },
+  "UserID": 24,
+  "FullName": "Sunwoo Han",
+  "Email": "jett@example.com",
+  "Password": "wind123",
+  "DateOfBirth": {
+    "$date": "1999-10-12T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "South Korea",
+  "RelationshipStatus": "Single",
+  "Bio": "kimchi destroyer",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:44.350Z"
+  },
+  "Age": 24,
+  "PreferredCategories": [
+    2,
+    19,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e48c5f544ecd3f17e6"
+  },
+  "UserID": 25,
+  "FullName": "Amir El Amari",
+  "Email": "cypher@example.com",
+  "Password": "spynet123",
+  "DateOfBirth": {
+    "$date": "1988-03-07T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Morocco",
+  "RelationshipStatus": "Single",
+  "Bio": "corpse?",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:44.480Z"
+  },
+  "Age": 36,
+  "PreferredCategories": [
+    5,
+    20,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "666869e48c5f544ecd3f17e7"
+  },
+  "UserID": 26,
+  "FullName": "Ling Ying Wei",
+  "Email": "sage@example.com",
+  "Password": "healer123",
+  "DateOfBirth": {
+    "$date": "1992-07-01T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "China",
+  "RelationshipStatus": "Single",
+  "Bio": "yo phone linging",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:14:44.597Z"
+  },
+  "Age": 31,
+  "PreferredCategories": [
+    18,
+    2,
+    7
+  ]
+},
+{
+  "_id": {
+    "$oid": "66686d0a8c5f544ecd3f17e8"
+  },
+  "UserID": 27,
+  "FullName": "Franze Natividad",
+  "Email": "franze@example.com",
+  "Password": "carlo123",
+  "DateOfBirth": {
+    "$date": "2004-09-17T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Plaridel, Bulacan",
+  "RelationshipStatus": "Single",
+  "Bio": "Database admin",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:28:10.424Z"
+  },
+  "Age": 19,
+  "PreferredCategories": [
+    15,
+    6,
+    8
+  ]
+},
+{
+  "_id": {
+    "$oid": "66686d0a8c5f544ecd3f17e9"
+  },
+  "UserID": 28,
+  "FullName": "Blix Foryasen",
+  "Email": "blix@example.com",
+  "Password": "blix123",
+  "DateOfBirth": {
+    "$date": "2002-03-05T00:00:00.000Z"
+  },
+  "Gender": "Male",
+  "Location": "Nueva Vizcaya",
+  "RelationshipStatus": "Single",
+  "Bio": "facebook CEO",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:28:10.584Z"
+  },
+  "Age": 22,
+  "PreferredCategories": [
+    11,
+    4,
+    8
+  ]
+},
+{
+  "_id": {
+    "$oid": "66686d0a8c5f544ecd3f17ea"
+  },
+  "UserID": 29,
+  "FullName": "Nicole Libunao",
+  "Email": "nicole@example.com",
+  "Password": "nicole123",
+  "DateOfBirth": {
+    "$date": "2003-10-18T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "Tondo, Manila",
+  "RelationshipStatus": "Single",
+  "Bio": "UI/UX designer",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:28:10.734Z"
+  },
+  "Age": 20,
+  "PreferredCategories": [
+    12,
+    22,
+    7
+  ]
+},
+{
+  "_id": {
+    "$oid": "66686d0a8c5f544ecd3f17eb"
+  },
+  "UserID": 30,
+  "FullName": "Hanni Pham",
+  "Email": "hanni@example.com",
+  "Password": "naur123",
+  "DateOfBirth": {
+    "$date": "2004-10-06T00:00:00.000Z"
+  },
+  "Gender": "Female",
+  "Location": "Seoul",
+  "RelationshipStatus": "Single",
+  "Bio": "kangaroo",
+  "AccountCreationTimestamp": {
+    "$date": "2024-06-11T15:28:10.879Z"
+  },
+  "Age": 19,
+  "PreferredCategories": [
+    18,
+    22,
+    9
+  ]
+}]

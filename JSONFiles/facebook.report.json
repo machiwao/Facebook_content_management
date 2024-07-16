@@ -1,0 +1,528 @@
+[{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae6626"
+  },
+  "ReportID": 1,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 3,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae6627"
+  },
+  "ReportID": 2,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 3,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae6628"
+  },
+  "ReportID": 3,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 2,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.358Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae6629"
+  },
+  "ReportID": 4,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 5,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae662a"
+  },
+  "ReportID": 5,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 5,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae662b"
+  },
+  "ReportID": 6,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 6,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae662c"
+  },
+  "ReportID": 7,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 17,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fb06a614eae6eae662d"
+  },
+  "ReportID": 8,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 8,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:24.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fc46a614eae6eae662e"
+  },
+  "ReportID": 9,
+  "ReporterUserID": 2,
+  "ReportedEntityID": 29,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:44.354Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fc46a614eae6eae662f"
+  },
+  "ReportID": 10,
+  "ReporterUserID": 2,
+  "ReportedEntityID": 8,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:44.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fc46a614eae6eae6630"
+  },
+  "ReportID": 11,
+  "ReporterUserID": 2,
+  "ReportedEntityID": 24,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:44.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66745fc46a614eae6eae6631"
+  },
+  "ReportID": 12,
+  "ReporterUserID": 2,
+  "ReportedEntityID": 8,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T16:58:44.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6632"
+  },
+  "ReportID": 13,
+  "ReporterUserID": 3,
+  "ReportedEntityID": 26,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.750Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6633"
+  },
+  "ReportID": 14,
+  "ReporterUserID": 3,
+  "ReportedEntityID": 6,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6634"
+  },
+  "ReportID": 15,
+  "ReporterUserID": 3,
+  "ReportedEntityID": 8,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.828Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6635"
+  },
+  "ReportID": 16,
+  "ReporterUserID": 3,
+  "ReportedEntityID": 2,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6636"
+  },
+  "ReportID": 17,
+  "ReporterUserID": 4,
+  "ReportedEntityID": 21,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.860Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6637"
+  },
+  "ReportID": 18,
+  "ReporterUserID": 4,
+  "ReportedEntityID": 2,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6638"
+  },
+  "ReportID": 19,
+  "ReporterUserID": 4,
+  "ReportedEntityID": 70,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae6639"
+  },
+  "ReportID": 20,
+  "ReporterUserID": 4,
+  "ReportedEntityID": 8,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae663a"
+  },
+  "ReportID": 21,
+  "ReporterUserID": 5,
+  "ReportedEntityID": 3,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae663b"
+  },
+  "ReportID": 22,
+  "ReporterUserID": 5,
+  "ReportedEntityID": 2,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae663c"
+  },
+  "ReportID": 23,
+  "ReporterUserID": 5,
+  "ReportedEntityID": 7,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.960Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae663d"
+  },
+  "ReportID": 24,
+  "ReporterUserID": 5,
+  "ReportedEntityID": 9,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460666a614eae6eae663e"
+  },
+  "ReportID": 25,
+  "ReporterUserID": 6,
+  "ReportedEntityID": 1,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:26.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae663f"
+  },
+  "ReportID": 26,
+  "ReporterUserID": 6,
+  "ReportedEntityID": 1,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6640"
+  },
+  "ReportID": 27,
+  "ReporterUserID": 6,
+  "ReportedEntityID": 1,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.026Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6641"
+  },
+  "ReportID": 28,
+  "ReporterUserID": 6,
+  "ReportedEntityID": 1,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6642"
+  },
+  "ReportID": 29,
+  "ReporterUserID": 7,
+  "ReportedEntityID": 2,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6643"
+  },
+  "ReportID": 30,
+  "ReporterUserID": 7,
+  "ReportedEntityID": 2,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6644"
+  },
+  "ReportID": 31,
+  "ReporterUserID": 7,
+  "ReportedEntityID": 2,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6645"
+  },
+  "ReportID": 32,
+  "ReporterUserID": 7,
+  "ReportedEntityID": 2,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6646"
+  },
+  "ReportID": 33,
+  "ReporterUserID": 8,
+  "ReportedEntityID": 3,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6647"
+  },
+  "ReportID": 34,
+  "ReporterUserID": 8,
+  "ReportedEntityID": 3,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6648"
+  },
+  "ReportID": 35,
+  "ReporterUserID": 8,
+  "ReportedEntityID": 3,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6649"
+  },
+  "ReportID": 36,
+  "ReporterUserID": 8,
+  "ReportedEntityID": 3,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.178Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae664a"
+  },
+  "ReportID": 37,
+  "ReporterUserID": 9,
+  "ReportedEntityID": 4,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae664b"
+  },
+  "ReportID": 38,
+  "ReporterUserID": 9,
+  "ReportedEntityID": 4,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.206Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae664c"
+  },
+  "ReportID": 39,
+  "ReporterUserID": 9,
+  "ReportedEntityID": 4,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae664d"
+  },
+  "ReportID": 40,
+  "ReporterUserID": 9,
+  "ReportedEntityID": 4,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.244Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae664e"
+  },
+  "ReportID": 41,
+  "ReporterUserID": 10,
+  "ReportedEntityID": 5,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae664f"
+  },
+  "ReportID": 42,
+  "ReporterUserID": 10,
+  "ReportedEntityID": 5,
+  "EntityType": "Page",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6650"
+  },
+  "ReportID": 43,
+  "ReporterUserID": 10,
+  "ReportedEntityID": 5,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.291Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667460676a614eae6eae6651"
+  },
+  "ReportID": 44,
+  "ReporterUserID": 10,
+  "ReportedEntityID": 5,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T17:01:27.311Z"
+  }
+}]

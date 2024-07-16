@@ -1,0 +1,570 @@
+[{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1812"
+  },
+  "UserID": 1,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1814"
+  },
+  "UserID": 2,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1816"
+  },
+  "UserID": 3,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1818"
+  },
+  "UserID": 4,
+  "PageID": 2,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f181a"
+  },
+  "UserID": 5,
+  "PageID": 2,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f181c"
+  },
+  "UserID": 6,
+  "PageID": 2,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f181e"
+  },
+  "UserID": 7,
+  "PageID": 3,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1820"
+  },
+  "UserID": 8,
+  "PageID": 3,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1822"
+  },
+  "UserID": 9,
+  "PageID": 3,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.331Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1824"
+  },
+  "UserID": 10,
+  "PageID": 4,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.382Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1826"
+  },
+  "UserID": 11,
+  "PageID": 4,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1828"
+  },
+  "UserID": 12,
+  "PageID": 4,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.438Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f182a"
+  },
+  "UserID": 13,
+  "PageID": 5,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.472Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f182c"
+  },
+  "UserID": 14,
+  "PageID": 5,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f182e"
+  },
+  "UserID": 15,
+  "PageID": 5,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1830"
+  },
+  "UserID": 16,
+  "PageID": 6,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1832"
+  },
+  "UserID": 17,
+  "PageID": 6,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687b518c5f544ecd3f1834"
+  },
+  "UserID": 18,
+  "PageID": 6,
+  "Timestamp": {
+    "$date": "2024-06-11T16:29:05.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f183e"
+  },
+  "UserID": 19,
+  "PageID": 7,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1840"
+  },
+  "UserID": 20,
+  "PageID": 7,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.139Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1842"
+  },
+  "UserID": 21,
+  "PageID": 7,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.176Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1844"
+  },
+  "UserID": 22,
+  "PageID": 8,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1846"
+  },
+  "UserID": 23,
+  "PageID": 8,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1848"
+  },
+  "UserID": 24,
+  "PageID": 8,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f184a"
+  },
+  "UserID": 25,
+  "PageID": 9,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.311Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f184c"
+  },
+  "UserID": 26,
+  "PageID": 9,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f184e"
+  },
+  "UserID": 27,
+  "PageID": 9,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1850"
+  },
+  "UserID": 28,
+  "PageID": 10,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1852"
+  },
+  "UserID": 29,
+  "PageID": 10,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687ba08c5f544ecd3f1854"
+  },
+  "UserID": 30,
+  "PageID": 10,
+  "Timestamp": {
+    "$date": "2024-06-11T16:30:24.449Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f1894"
+  },
+  "UserID": 4,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f1896"
+  },
+  "UserID": 5,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.199Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f1898"
+  },
+  "UserID": 6,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f189a"
+  },
+  "UserID": 7,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.267Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f189c"
+  },
+  "UserID": 8,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f189e"
+  },
+  "UserID": 9,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18a0"
+  },
+  "UserID": 10,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.383Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18a2"
+  },
+  "UserID": 11,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18a4"
+  },
+  "UserID": 12,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18a6"
+  },
+  "UserID": 13,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18a8"
+  },
+  "UserID": 14,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.536Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18aa"
+  },
+  "UserID": 15,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18ac"
+  },
+  "UserID": 16,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18ae"
+  },
+  "UserID": 17,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.652Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18b0"
+  },
+  "UserID": 18,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18b2"
+  },
+  "UserID": 19,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18b4"
+  },
+  "UserID": 20,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18b6"
+  },
+  "UserID": 21,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18b8"
+  },
+  "UserID": 22,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.842Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18ba"
+  },
+  "UserID": 23,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18bc"
+  },
+  "UserID": 24,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881278c5f544ecd3f18be"
+  },
+  "UserID": 25,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:53:59.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881288c5f544ecd3f18c0"
+  },
+  "UserID": 26,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:54:00.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881288c5f544ecd3f18c2"
+  },
+  "UserID": 27,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:54:00.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881288c5f544ecd3f18c4"
+  },
+  "UserID": 28,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:54:00.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881288c5f544ecd3f18c6"
+  },
+  "UserID": 29,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:54:00.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666881288c5f544ecd3f18c8"
+  },
+  "UserID": 30,
+  "PageID": 1,
+  "Timestamp": {
+    "$date": "2024-06-11T16:54:00.217Z"
+  }
+}]

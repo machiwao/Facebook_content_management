@@ -1,0 +1,726 @@
+[{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f17ff"
+  },
+  "GroupID": 1,
+  "UserID": 17,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.453Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1801"
+  },
+  "GroupID": 2,
+  "UserID": 21,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1803"
+  },
+  "GroupID": 3,
+  "UserID": 22,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1805"
+  },
+  "GroupID": 4,
+  "UserID": 23,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1807"
+  },
+  "GroupID": 5,
+  "UserID": 24,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1809"
+  },
+  "GroupID": 6,
+  "UserID": 25,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f180b"
+  },
+  "GroupID": 7,
+  "UserID": 27,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f180d"
+  },
+  "GroupID": 8,
+  "UserID": 28,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f180f"
+  },
+  "GroupID": 9,
+  "UserID": 29,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666878a88c5f544ecd3f1811"
+  },
+  "GroupID": 10,
+  "UserID": 30,
+  "Role": "Creator",
+  "JoinDate": {
+    "$date": "2024-06-11T16:17:44.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d768c5f544ecd3f1856"
+  },
+  "GroupID": 1,
+  "UserID": 1,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:14.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1858"
+  },
+  "GroupID": 1,
+  "UserID": 2,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:14.997Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f185a"
+  },
+  "GroupID": 1,
+  "UserID": 3,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.033Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f185c"
+  },
+  "GroupID": 2,
+  "UserID": 4,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f185e"
+  },
+  "GroupID": 2,
+  "UserID": 5,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1860"
+  },
+  "GroupID": 2,
+  "UserID": 6,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.148Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1862"
+  },
+  "GroupID": 3,
+  "UserID": 7,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1864"
+  },
+  "GroupID": 3,
+  "UserID": 8,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1866"
+  },
+  "GroupID": 3,
+  "UserID": 9,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1868"
+  },
+  "GroupID": 4,
+  "UserID": 10,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f186a"
+  },
+  "GroupID": 4,
+  "UserID": 11,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f186c"
+  },
+  "GroupID": 4,
+  "UserID": 12,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f186e"
+  },
+  "GroupID": 5,
+  "UserID": 13,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1870"
+  },
+  "GroupID": 5,
+  "UserID": 14,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.438Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1872"
+  },
+  "GroupID": 5,
+  "UserID": 15,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1874"
+  },
+  "GroupID": 6,
+  "UserID": 16,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1876"
+  },
+  "GroupID": 6,
+  "UserID": 17,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.556Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1878"
+  },
+  "GroupID": 6,
+  "UserID": 18,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f187a"
+  },
+  "GroupID": 7,
+  "UserID": 19,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.640Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f187c"
+  },
+  "GroupID": 7,
+  "UserID": 20,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f187e"
+  },
+  "GroupID": 7,
+  "UserID": 21,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1880"
+  },
+  "GroupID": 8,
+  "UserID": 22,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1882"
+  },
+  "GroupID": 8,
+  "UserID": 23,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.792Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1884"
+  },
+  "GroupID": 8,
+  "UserID": 24,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.829Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f1888"
+  },
+  "GroupID": 9,
+  "UserID": 26,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d778c5f544ecd3f188a"
+  },
+  "GroupID": 9,
+  "UserID": 27,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.950Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d788c5f544ecd3f188c"
+  },
+  "GroupID": 10,
+  "UserID": 28,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:15.998Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687d788c5f544ecd3f188e"
+  },
+  "GroupID": 10,
+  "UserID": 29,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:38:16.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687e708c5f544ecd3f1890"
+  },
+  "GroupID": 10,
+  "UserID": 25,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:42:24.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66687e708c5f544ecd3f1892"
+  },
+  "GroupID": 9,
+  "UserID": 30,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:42:24.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18ca"
+  },
+  "GroupID": 1,
+  "UserID": 4,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18cc"
+  },
+  "GroupID": 1,
+  "UserID": 5,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18ce"
+  },
+  "GroupID": 1,
+  "UserID": 6,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18d0"
+  },
+  "GroupID": 1,
+  "UserID": 7,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18d2"
+  },
+  "GroupID": 1,
+  "UserID": 8,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18d4"
+  },
+  "GroupID": 1,
+  "UserID": 9,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.638Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18d6"
+  },
+  "GroupID": 1,
+  "UserID": 10,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18d8"
+  },
+  "GroupID": 1,
+  "UserID": 11,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18da"
+  },
+  "GroupID": 1,
+  "UserID": 12,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.765Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18dc"
+  },
+  "GroupID": 1,
+  "UserID": 14,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18de"
+  },
+  "GroupID": 1,
+  "UserID": 15,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.863Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18e0"
+  },
+  "GroupID": 1,
+  "UserID": 16,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827c8c5f544ecd3f18e2"
+  },
+  "GroupID": 1,
+  "UserID": 18,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:40.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18e4"
+  },
+  "GroupID": 1,
+  "UserID": 19,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18e6"
+  },
+  "GroupID": 1,
+  "UserID": 20,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.046Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18e8"
+  },
+  "GroupID": 1,
+  "UserID": 21,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.081Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18ea"
+  },
+  "GroupID": 1,
+  "UserID": 22,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18ec"
+  },
+  "GroupID": 1,
+  "UserID": 23,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18ee"
+  },
+  "GroupID": 1,
+  "UserID": 24,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18f0"
+  },
+  "GroupID": 1,
+  "UserID": 25,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18f2"
+  },
+  "GroupID": 1,
+  "UserID": 26,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18f4"
+  },
+  "GroupID": 1,
+  "UserID": 27,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.325Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18f6"
+  },
+  "GroupID": 1,
+  "UserID": 28,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18f8"
+  },
+  "GroupID": 1,
+  "UserID": 29,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668827d8c5f544ecd3f18fa"
+  },
+  "GroupID": 1,
+  "UserID": 30,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T16:59:41.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668829f8c5f544ecd3f18fc"
+  },
+  "GroupID": 1,
+  "UserID": 13,
+  "Role": "Member",
+  "JoinDate": {
+    "$date": "2024-06-11T17:00:15.501Z"
+  }
+}]

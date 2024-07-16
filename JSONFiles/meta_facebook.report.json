@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "66744094eb3102aaba3b9387"
+  },
+  "ReportID": 1,
+  "ReporterUserID": 1,
+  "ReportedEntityID": 1,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T14:45:40.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744420eb3102aaba3b9388"
+  },
+  "ReportID": 2,
+  "ReporterUserID": 2,
+  "ReportedEntityID": 1,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:48.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744420eb3102aaba3b9389"
+  },
+  "ReportID": 3,
+  "ReporterUserID": 3,
+  "ReportedEntityID": 2,
+  "EntityType": "Group",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:48.974Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b938a"
+  },
+  "ReportID": 4,
+  "ReporterUserID": 4,
+  "ReportedEntityID": 3,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b938b"
+  },
+  "ReportID": 5,
+  "ReporterUserID": 5,
+  "ReportedEntityID": 12,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b938c"
+  },
+  "ReportID": 6,
+  "ReporterUserID": 6,
+  "ReportedEntityID": 3,
+  "EntityType": "User",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b938d"
+  },
+  "ReportID": 7,
+  "ReporterUserID": 7,
+  "ReportedEntityID": 16,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b938e"
+  },
+  "ReportID": 8,
+  "ReporterUserID": 8,
+  "ReportedEntityID": 17,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b938f"
+  },
+  "ReportID": 9,
+  "ReporterUserID": 9,
+  "ReportedEntityID": 18,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b9390"
+  },
+  "ReportID": 10,
+  "ReporterUserID": 10,
+  "ReportedEntityID": 19,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b9391"
+  },
+  "ReportID": 11,
+  "ReporterUserID": 11,
+  "ReportedEntityID": 20,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b9392"
+  },
+  "ReportID": 12,
+  "ReporterUserID": 12,
+  "ReportedEntityID": 21,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66744421eb3102aaba3b9393"
+  },
+  "ReportID": 13,
+  "ReporterUserID": 13,
+  "ReportedEntityID": 13,
+  "EntityType": "Post",
+  "Timestamp": {
+    "$date": "2024-06-20T15:00:49.499Z"
+  }
+}]

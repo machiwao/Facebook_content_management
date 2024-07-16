@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17f6"
+  },
+  "CategoryID": 1,
+  "CategoryName": "Technology",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17f7"
+  },
+  "CategoryID": 2,
+  "CategoryName": "Politics",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17f8"
+  },
+  "CategoryID": 3,
+  "CategoryName": "Gaming",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17f9"
+  },
+  "CategoryID": 4,
+  "CategoryName": "Cooking",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.764Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17fa"
+  },
+  "CategoryID": 5,
+  "CategoryName": "Travel",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17fb"
+  },
+  "CategoryID": 6,
+  "CategoryName": "Memes",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.815Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17fc"
+  },
+  "CategoryID": 7,
+  "CategoryName": "Sports",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666871ad8c5f544ecd3f17fd"
+  },
+  "CategoryID": 8,
+  "CategoryName": "Entertainment",
+  "CreationDate": {
+    "$date": "2024-06-11T15:47:57.863Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b2688c5f544ecd3f197c"
+  },
+  "CategoryID": 9,
+  "CategoryName": "Music",
+  "CreationDate": {
+    "$date": "2024-06-11T20:24:08.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b6318c5f544ecd3f198d"
+  },
+  "CategoryID": 10,
+  "CategoryName": "Kpop",
+  "CreationDate": {
+    "$date": "2024-06-11T20:40:17.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b6318c5f544ecd3f198f"
+  },
+  "CategoryID": 11,
+  "CategoryName": "Anime",
+  "CreationDate": {
+    "$date": "2024-06-11T20:40:17.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b6318c5f544ecd3f1992"
+  },
+  "CategoryID": 12,
+  "CategoryName": "Food",
+  "CreationDate": {
+    "$date": "2024-06-11T20:40:17.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b6318c5f544ecd3f1994"
+  },
+  "CategoryID": 13,
+  "CategoryName": "Fashion",
+  "CreationDate": {
+    "$date": "2024-06-11T20:40:17.854Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b6328c5f544ecd3f1999"
+  },
+  "CategoryID": 14,
+  "CategoryName": "TV",
+  "CreationDate": {
+    "$date": "2024-06-11T20:40:18.072Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b6328c5f544ecd3f199b"
+  },
+  "CategoryID": 15,
+  "CategoryName": "Pets",
+  "CreationDate": {
+    "$date": "2024-06-11T20:40:18.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b6328c5f544ecd3f199d"
+  },
+  "CategoryID": 16,
+  "CategoryName": "Fitness",
+  "CreationDate": {
+    "$date": "2024-06-11T20:40:18.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b8618c5f544ecd3f1a04"
+  },
+  "CategoryID": 17,
+  "CategoryName": "Ragebait",
+  "CreationDate": {
+    "$date": "2024-06-11T20:49:37.950Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b8d68c5f544ecd3f1a09"
+  },
+  "CategoryID": 18,
+  "CategoryName": "Science",
+  "CreationDate": {
+    "$date": "2024-06-11T20:51:34.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b9848c5f544ecd3f1a16"
+  },
+  "CategoryID": 19,
+  "CategoryName": "Afterlife",
+  "CreationDate": {
+    "$date": "2024-06-11T20:54:28.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668b9f88c5f544ecd3f1a23"
+  },
+  "CategoryID": 20,
+  "CategoryName": "Valorant",
+  "CreationDate": {
+    "$date": "2024-06-11T20:56:24.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668ba8f8c5f544ecd3f1a30"
+  },
+  "CategoryID": 21,
+  "CategoryName": "Forensics",
+  "CreationDate": {
+    "$date": "2024-06-11T20:58:55.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668bafc8c5f544ecd3f1a3d"
+  },
+  "CategoryID": 22,
+  "CategoryName": "Chess",
+  "CreationDate": {
+    "$date": "2024-06-11T21:00:44.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668bc4e8c5f544ecd3f1a56"
+  },
+  "CategoryID": 23,
+  "CategoryName": "Graphic Desigb",
+  "CreationDate": {
+    "$date": "2024-06-11T21:06:22.612Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6668bc4e8c5f544ecd3f1a5b"
+  },
+  "CategoryID": 24,
+  "CategoryName": "UI",
+  "CreationDate": {
+    "$date": "2024-06-11T21:06:22.758Z"
+  }
+}]
